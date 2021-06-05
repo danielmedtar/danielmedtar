@@ -23,6 +23,8 @@ Mi nombre es Daniel, nací en Valencia, Venezuela en el año 1987 y actualmente 
 ### 🌱 Actualmente estoy aprendiendo:
 
 ✔ JavaScript.
+✔ jQuery.
+✔ Gulp.
 
 
 
