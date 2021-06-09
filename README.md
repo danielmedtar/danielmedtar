@@ -1,7 +1,7 @@
 ### ¡Hola a todos! 👋
 
 
-Mi nombre es Daniel, nací en Valencia, Venezuela en el año 1987 y actualmente vivo en la ciudad de La Plata, Argentina. Desde la cuarentena del año 2020, comencé a estudiar sobre Desarrollo Web Front End y ahora no puedo parar de capacitarme y practicar.
+Mi nombre es Daniel, nací en Valencia, Venezuela en el año 1987 y actualmente vivo en la ciudad de La Plata, Argentina.
 
 ### 🔭 Tecnologías con las que he trabajado:
 
