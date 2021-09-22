@@ -18,14 +18,13 @@ Mi nombre es Daniel, nací en Valencia, Venezuela en el año 1987 y actualmente 
 
 ✔ GitHub.
 
+✔ JavaScript.
+
 
 
 ### 🌱 Actualmente estoy aprendiendo:
 
-✔ JavaScript.
-✔ jQuery.
-✔ Gulp.
-
+✔ React.JS.
 
 
 ### 💬 Un poco mas sobre mi
