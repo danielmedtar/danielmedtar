@@ -22,6 +22,15 @@ Mi nombre es Daniel, nací en Valencia, Venezuela en el año 1987 y actualmente 
 
 ✔ React.JS.
 
+### Conocimientos adicionales:
+
+
+✔ Semántica HTML. 
+
+✔ Accesibilidad Web.
+
+✔ Interactividades con CSS Puro
+
 
 ### 💬 Un poco mas sobre mi
 
