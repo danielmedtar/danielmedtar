@@ -20,10 +20,6 @@ Mi nombre es Daniel, nací en Valencia, Venezuela en el año 1987 y actualmente 
 
 ✔ JavaScript.
 
-
-
-### 🌱 Actualmente estoy aprendiendo:
-
 ✔ React.JS.
 
 
